@@ -22,7 +22,7 @@
   .no-result {
     @apply text-center !text-base-regular text-light-3;
   }
-  
+
   /* Community Card */
   .community-card {
     @apply w-full rounded-lg bg-dark-3 px-4 py-5 sm:w-96;
