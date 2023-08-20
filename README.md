@@ -33,8 +33,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-
-
 //---------------------
 
 Installations:
@@ -56,4 +54,3 @@ npx shadcn-ui@latest init
 ✔ Configure the import alias for utils: … @/lib/utils
 ✔ Are you using React Server Components? … no / yes
 ✔ Write configuration to components.json. Proceed? … yes
-
