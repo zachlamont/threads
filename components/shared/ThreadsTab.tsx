@@ -30,7 +30,7 @@ const ThreadsTab = async ({ currentUserId, accountId, accountType }: Props) => {
                   image: thread.author.image,
                   id: thread.author.id,
                 }
-          } 
+          }
           community={thread.community} //todo
           createdAt={thread.createdAt}
           comments={thread.children}
@@ -41,5 +41,3 @@ const ThreadsTab = async ({ currentUserId, accountId, accountType }: Props) => {
 };
 
 export default ThreadsTab;
-
-
